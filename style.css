@@ -206,6 +206,13 @@ aside{
     #dbox{
         width: 80%;
     }
+    .but{
+        width: 15%;
+    }
+    .but:hover{
+        width: 15%;
+    }
+
 }
 @media screen and (min-width:650px) and (max-width:749px){
     .logo{
@@ -222,6 +229,12 @@ aside{
     }
     #dbox{
         width: 80%;
+    }
+    .but{
+        width: 15%;
+    }
+    .but:hover{
+        width: 15%;
     }
 }
 @media screen and (min-width:600px) and (max-width:649px){
@@ -240,6 +253,12 @@ aside{
     #dbox{
         width: 80%;
     }
+    .but{
+        width: 20%;
+    }
+    .but:hover{
+        width: 20%;
+    }
 }
 @media screen and (min-width:550px) and (max-width:599px){
 
@@ -257,6 +276,12 @@ aside{
     }
     #dbox{
         width: 70%;
+    }
+    .but{
+        width: 20%;
+    }
+    .but:hover{
+        width: 20%;
     }
 
 }
@@ -287,6 +312,12 @@ aside{
     #dbox{
         width: 70%;
     }
+    .but{
+        width: 23%;
+    }
+    .but:hover{
+        width: 23%;
+    }
 }
 @media screen and (min-width:400px) and (max-width:499px){
     header{
@@ -315,6 +346,12 @@ aside{
     #dbox{
         width: 70%;
     }
+    .but{
+        width: 25%;
+    }
+    .but:hover{
+        width: 25%;
+    }
 }
 @media screen and (min-width:320px) and (max-width:399px){
     header{
@@ -342,5 +379,11 @@ aside{
     }
     #dbox{
         width: 70%;
+    }
+    .but{
+        width: 27%;
+    }
+    .but:hover{
+        width: 27%;
     }
 }
